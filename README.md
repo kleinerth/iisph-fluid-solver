@@ -7,9 +7,7 @@ Due to the limited time frame, the focus was on numerical correctness and perfor
 
 ## Demo
 
-<p align=center>
- <img src="https://raw.githubusercontent.com/iisph-fluid-solver/docs/demo.gif">
-</p>
+![Demo](docs/demo.gif)
 
 ## Features
 
